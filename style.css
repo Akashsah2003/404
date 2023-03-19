@@ -1,0 +1,36 @@
+*{
+    margin-left: 10px;
+}
+
+/* h1{
+    font-size: 40;
+} */
+
+.mid{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left{
+    width: 49%;
+}
+
+.right{
+    width: 49%;
+}
+
+.left img{
+    width: 38.4vw;
+}
+
+.down p{
+    font-size: 18px;
+    color: grey;
+}
+
+button{
+    padding: 15px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+}
