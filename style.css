@@ -34,3 +34,8 @@ button{
     color: white;
     font-size: 18px;
 }
+
+footer{
+    margin-bottom: 0;
+    text-align: center;
+}
